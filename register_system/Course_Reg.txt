@@ -1,0 +1,7 @@
+999111  Object-Oriented Analysis and Design  3  Tue  SD-513  12:00-15:00  
+886949  Introduction to Digital Signal Processing  3  Wed  SD-516  12:00-14:00  
+886797  Seminar in Computer Science   3  Mon  SD-143  12:00-14:00  
+887998  Selected Topic in Computer Science I   3  Thu  SD-512  13:00-14:00  
+999111  English III  3  Tue  SD-513  14:00-15:00  
+999111  Japanese  3  Tue  SD-516  13:00-15:00  
+555444  rounge  3  Tue  SD-517  13:00-15:00  
